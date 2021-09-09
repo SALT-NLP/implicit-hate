@@ -2,7 +2,7 @@
 
 _Latent Hatred: A Benchmark for Understanding Implicit Hate Speech_
 
-[[Read the Paper]](#) | [[Download the Data]](#)
+[[Read the Paper]](#) | [[Download the Data]](https://gatech.box.com/s/6juaf8g5cpficlc7s6tikugyt64x404n) | [[Take a Survey to Access the Data]](https://forms.gle/QxCpEbVp91Z35hWFA)
 
 <img src="frontpage.png" alt="frontpage" width="650"/>
 
@@ -12,20 +12,23 @@ It is important to consider the subtle tricks that many extremists use to mask t
 
 ## *Where can I download the data?*
 
-Click [this link to download](#) (**X** MB, expands to **Y** MB). 
+Click [this link to download](https://gatech.box.com/s/6juaf8g5cpficlc7s6tikugyt64x404n) (439 kB, expands to 1.3 MB). 
+
+If you have not already, you will need to first complete a [survey](https://forms.gle/QxCpEbVp91Z35hWFA) to gain access to this **password**-protected file.
 
 ## *What's 'in the box?'* 
 
-This dataset contains **22,184** tweets from the most prominent extremist groups in the United States; **6,729** of these tweets contain *implicit hate speech.* We decompose the implicit hate class using the following taxonomy (distribution shown on the left).
+This dataset contains **22,056** tweets from the most prominent extremist groups in the United States; **6,346** of these tweets contain *implicit hate speech.* We decompose the implicit hate class using the following taxonomy (distribution shown on the left).
 
-* (23.9%) **Grievance:** frustration over a minority group's perceived privilege.
-* (20.3%) **Incitement:** implicitly promoting known hate groups and ideologies (e.g. by flaunting in-group power).
-* (13.3%) **Inferiority:** implying some group or person is of lesser value than another.
-* (12.5%) **Irony:** using sarcasm, humor, and satire to demean someone.
-* (18.0%) **Stereotypes:** associating a group with negative attribute using euphemisms, circumlocution, or metaphorical language.
-* (10.7%) **Threats:** making an indirect commitment to attack someone's body, well-being, reputation, liberty, etc.
+* (24.2%) **Grievance:** frustration over a minority group's perceived privilege.
+* (20.0%) **Incitement:** implicitly promoting known hate groups and ideologies (e.g. by flaunting in-group power).
+* (13.6%) **Inferiority:** implying some group or person is of lesser value than another.
+* (12.6%) **Irony:** using sarcasm, humor, and satire to demean someone.
+* (17.9%) **Stereotypes:** associating a group with negative attribute using euphemisms, circumlocution, or metaphorical language.
+* (10.5%) **Threats:** making an indirect commitment to attack someone's body, well-being, reputation, liberty, etc.
+* (1.2%) **Other**
 
-Each of the 6,729 implicit hate tweets also has free-text annotations for *target demographic group* and an *implied statement* to describe the underlying message (see banner image above).
+Each of the 6,346 implicit hate tweets also has free-text annotations for *target demographic group* and an *implied statement* to describe the underlying message (see banner image above).
 
 ## *What can I do with this data?* 
 
