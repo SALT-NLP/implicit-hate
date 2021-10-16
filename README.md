@@ -1,4 +1,4 @@
-# implicit-hate
+# Implicit Hate Speech
 
 _Latent Hatred: A Benchmark for Understanding Implicit Hate Speech_
 
