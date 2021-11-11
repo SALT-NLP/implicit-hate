@@ -2,7 +2,7 @@
 
 _Latent Hatred: A Benchmark for Understanding Implicit Hate Speech_
 
-[[Read the Paper]](#) | [[Download the Data]](https://gatech.box.com/s/6juaf8g5cpficlc7s6tikugyt64x404n) | [[Take a Survey to Access the Data]](https://forms.gle/QxCpEbVp91Z35hWFA)
+[[Read the Paper]](https://aclanthology.org/2021.emnlp-main.29/) | [[Take a Survey to Access the Data]](https://forms.gle/QxCpEbVp91Z35hWFA) | [[Download the Data]](https://www.dropbox.com/s/24meryhqi1oo0xk/implicit-hate-corpus.zip?dl=0)
 
 <img src="frontpage.png" alt="frontpage" width="650"/>
 
@@ -12,9 +12,7 @@ It is important to consider the subtle tricks that many extremists use to mask t
 
 ## *Where can I download the data?*
 
-Click [this link to download](https://gatech.box.com/s/6juaf8g5cpficlc7s6tikugyt64x404n) (439 kB, expands to 1.3 MB). 
-
-If you have not already, you will need to first complete a [survey](https://forms.gle/QxCpEbVp91Z35hWFA) to gain access to this **password**-protected file.
+If you have not already, please first complete a short [survey](https://forms.gle/QxCpEbVp91Z35hWFA). Then follow [this link to download](https://www.dropbox.com/s/24meryhqi1oo0xk/implicit-hate-corpus.zip?dl=0) (439 kB, expands to 1.3 MB). 
 
 ## *What's 'in the box?'* 
 
@@ -45,10 +43,21 @@ We hope you can extend our baselines and further our efforts to understand and a
 **BibTeX:**
 
 ```tex
-@inproceedings{elsherief-2021-latent-hatred,
- title = {Latent Hatred: A Benchmark for Understanding Implicit Hate Speech},
- author = {ElSherief, Mai and Ziems, Caleb and Muchlinski, David and Anupindi, Vaishnavi and Seybolt, Jordyn and De Choudhury, Munmun, and Yang, Diyi},
- booktitle = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
- year = {2021}
+@inproceedings{elsherief-etal-2021-latent,
+    title = "Latent Hatred: A Benchmark for Understanding Implicit Hate Speech",
+    author = "ElSherief, Mai  and
+      Ziems, Caleb  and
+      Muchlinski, David  and
+      Anupindi, Vaishnavi  and
+      Seybolt, Jordyn  and
+      De Choudhury, Munmun  and
+      Yang, Diyi",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.29",
+    pages = "345--363"
 }
 ```
